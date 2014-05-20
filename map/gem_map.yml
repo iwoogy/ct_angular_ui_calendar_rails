@@ -1,0 +1,10 @@
+---
+module:
+  name: "'ui.calendar"
+uis:
+  - name: ui-calendar
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
